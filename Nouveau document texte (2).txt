@@ -1,0 +1,84 @@
+C:\>mkdir python
+C:\>mkdir oracle
+C:\>mkdir html
+
+C:\>cd python
+C:\python>notepad livrepython.txt
+C:\python>mkdir python1, python2, pyhton3, 
+
+C:\python>cd..
+C:\>cd oracle
+C:\oracle>notepad livreoracle.txt
+C:\oracle>mkdir oralce1, oracle2, oracle3
+
+C:\oracle>cd..
+C:\>cd html
+C:\html>notepad livrehtml.txt
+C:\html>mkdir html1, html2, html3,  
+
+C:\html>cd html1
+C:\html\html1>notepad livre1html.txt
+C:\html\html1>cd..
+C:\html>cd html2
+C:\html\html2>notepad livre2html.txt
+C:\html\html2>cd..
+C:\html>cd html3
+C:\html\html3>notepad livre3html.txt
+C:\html\html3>cd..
+C:\html>cd..
+
+C:>cd python\python1
+C:\python\python1>notepad livre1python.txt
+C:\python\python1>cd..
+C:\python>cd python2
+C:\python\python2>notepad livre2python.txt
+C:\python\python2>cd..
+C:\python>cd python3
+C:\python\python3>notepad livre3python.txt
+C:\python\python3>cd..
+C:\python>cd..
+
+
+C:\>cd oracle\oracle1
+C:\oracle\oracle1>notepad livre1oracle.txt
+C:\oracle\oracle1>cd..
+C:\oracle>cd oracle2
+C:\oracle\oracle2>notepad livre2oracle.txt
+C:\oracle\oracle>cd..
+C:\oracle>cd oracle3
+C:\oracle\oracle3>notepad livre3oracle.txt
+C:\oracle\oracle3>cd..
+C:\oracle>cd..
+
+C:\>mkdir backupfiles
+
+C:\>cd python\python1
+C:\python\python1>copy notepad livre1python.txt c:\backupfiles
+C:\python\python1>cd..
+C:\python>cd python2
+C:\python\python2>copy notepad livre2python.txt c:\backupfiles
+C:\python\python2>cd..
+C:\python>cd python3
+C:\python\python3>copy notepad livre3python.txt c:\backupfiles
+C:\python\python3>cd..
+C:\python>cd..
+
+C:\>cd oracle\oracle1
+C:\oracle\oracle1>copy notepad livre1oracle.txt c:\backupfiles
+C:\oracle\oracle1>cd..
+C:\oracle>cd oracle2
+C:\oracle\oracle2>copy notepad livre2oracle.txt c:\backupfiles
+C:\oracle\oracle2>cd..
+C:\oracle>cd oracle3
+C:\oracle\oracle3>copy notepad livre3oracle.txt c:\backupfiles
+C:\oracle\oracle3>cd..
+C:\oracle>cd..
+
+C:\>cd html\html1
+C:\html\html1>copy notepad livre1html.txt c:\backupfiles
+C:\html\html1>cd..
+C:\html>cd html2
+C:\html\html2>copy notepad livre2html.txt c:\backupfiles
+C:\html\html2>cd..
+C:\html>cd html3
+C:\html\html3>copy notepad livre3html.txt c:\backupfiles

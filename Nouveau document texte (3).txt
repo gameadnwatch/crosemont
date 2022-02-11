@@ -1,0 +1,14 @@
+C:\>mkdir java
+
+C:\>mkdir oracle
+
+C:\>cd java
+
+C:\java>notepad
+
+C:\java>copy GREGOIRELANGLOIS_00803.txt c:\oracle
+        1 fichier(s) copiÃ©(s).
+
+C:\java>del GREGOIRELANGLOIS_00803.txt
+
+C:\java>mkdir \Gestion\Economie\Commerce\Finance\Management
